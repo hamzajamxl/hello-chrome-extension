@@ -1,5 +1,10 @@
 {
-    "name": "Dad Jokes",
-    "version": "0.0.1",
-    "manifest_version": 2
+    "name": "Hello",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "hello",
+    "action": {
+        "default_popup": "hello.html",
+        "default_icon": "hello_extensions.png"
+    }
 }
